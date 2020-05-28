@@ -1,0 +1,19 @@
+html body {
+    height: 90%;
+    background-color: darkgray;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+}
+
+.circle {
+    height: 30px;
+    width: 30px;
+    border-radius: 90%;
+}
